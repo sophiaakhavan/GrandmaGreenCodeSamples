@@ -1,0 +1,18 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 28c04aea08bfc420fbb1ee045df7155b, type: 3}
+  m_Name: ShoppingManager
+  m_EditorClassIdentifier: 
+  currGardenList: []
+  currDecorList: []
+  gardenUnlockData: {fileID: 11400000, guid: 1bc9c767ec4d6e34497e80941379aeb9, type: 2}
+  shopTimer: {fileID: 11400000, guid: ddb8654f9cf7b0a468cbffa259303c49, type: 2}

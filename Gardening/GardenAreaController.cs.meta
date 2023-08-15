@@ -1,0 +1,23 @@
+fileFormatVersion: 2
+guid: d8dd7e0c396a7e241bfa7ee47a0a6fe6
+MonoImporter:
+  externalObjects: {}
+  serializedVersion: 2
+  defaultReferences:
+  - areaServicer: {instanceID: 0}
+  - tilemap: {instanceID: 0}
+  - pathfinder: {instanceID: 0}
+  - areaBounds: {instanceID: 0}
+  - playerController: {instanceID: 0}
+  - <lastSelectedTile>k__BackingField: {instanceID: 0}
+  - collection: {instanceID: 0}
+  - playerTools: {instanceID: 0}
+  - gardenManager: {instanceID: 0}
+  - golemManager: {instanceID: 0}
+  - FertilizerParticleBurst: {instanceID: 0}
+  - WateringParticleBurst: {instanceID: 0}
+  executionOrder: 0
+  icon: {instanceID: 0}
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
