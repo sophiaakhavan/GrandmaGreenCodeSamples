@@ -1,10 +1,11 @@
 # GrandmaGreenCodeSamples
-Samples of code that I worked on for the 2D mobile farming and pet simulator game, Grandma Green!
+Samples of code that I worked on for the 2D mobile farming and pet simulator game, Grandma Green (2023)!
 
 Collections:
 - I created most of the collections system, which handles all game item data
 - My contribution to the inventory system, which is part of the collections system, is all the backend for keeping track of the player's inventory
 - Collections reads in a CSV of all the item data and processes it into whatever is needed by other systems in the game
+[Note: This system is a bit hard-codey due to a lack of proper planning/coordination with design in the early stages of development and a lack of time to revamp. Classic student led project problems :') ]
 
 Gardening:
 - I was in charge of the garden customization, in which players can customize their gardens by dragging in decoration items that they buy in the shop, and personalizing their house, fence, and mailbox
